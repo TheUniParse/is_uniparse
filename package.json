@@ -1,5 +1,5 @@
 {
-  "name": "@theuniparse/is_uniparse",
+  "name": "@uniparse/is_uniparse",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
