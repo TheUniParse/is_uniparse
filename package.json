@@ -1,0 +1,16 @@
+{
+  "name": "@TheUniParse/is_uniparse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "UniParse",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheUniParse/is_uniparse.git"
+  }
+}
