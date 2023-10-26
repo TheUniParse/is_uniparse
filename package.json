@@ -1,6 +1,6 @@
 {
   "name": "@uniparse/is_uniparse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "UniParse",
   "license": "ISC",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/TheUniParse/is_uniparse.git"
